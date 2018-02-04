@@ -1,0 +1,25 @@
+{
+  "name": "emoji-unicode-to-name",
+  "version": "1.0.0",
+  "description": "Map emoji unicode to name",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zwliew/emoji-unicode-to-name.git"
+  },
+  "keywords": [
+    "emoji",
+    "unicode",
+    "name",
+    "map"
+  ],
+  "author": "Zhao Wei Liew <zhaoweiliew@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zwliew/emoji-unicode-to-name/issues"
+  },
+  "homepage": "https://github.com/zwliew/emoji-unicode-to-name#readme",
+  "dependencies": {
+    "emojilib": "^2.2.12"
+  }
+}
