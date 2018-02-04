@@ -1,5 +1,7 @@
 # emoji-unicode-to-name
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zwliew/emoji-unicode-to-name.svg)](https://greenkeeper.io/)
+
 Provides a mapping of unicode emoji to name.
 
 ## Installation
